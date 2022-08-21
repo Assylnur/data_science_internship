@@ -13,7 +13,7 @@ Subtasks for the first task:
 
 
 
-###  II. TASK 2: Building an algorithm for predicting the changes in inflation or dollar exchange rate
+###  II. TASK 2: Building an algorithm for predicting the changes in inflation and dollar exchange rate
 Subtasks for the second main task:
 -	Take a course on PyTorch and deep learning.
 -	Collect and store data in CSV file from the official website of National Bank.
